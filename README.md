@@ -19,7 +19,7 @@ Disfruto fomentando un ambiente de colaboración y confianza dentro de los equip
 
 - **Lenguajes**: Python, JavaScript, TypeScript, Java
 - **Frameworks y Librerías**: Django, React, Next.js, Nest.js, Vite.js, GraphQL, REST
-- **DevOps y Cloud**: Docker, AWS, GCP, GitLab CI/CD, GitHub Actions, Firebase, Amplify, Redis
+- **DevOps y Cloud**: Docker, AWS, GCP, GitLab CI/CD, GitHub Actions, Firebase, Redis
 - **ERP**: Odoo
 - **Bases de Datos**: PostgreSQL, MySQL, DynamoDB, Couchbase
 - **Otros**: Material UI, Tailwind CSS, Node.js, Styled-Components
