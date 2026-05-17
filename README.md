@@ -83,36 +83,75 @@ My main focus is building systems that help businesses and teams move faster thr
 
 <br />
 
-## Tech stack
+## Stack tecnológico
 
-### Languages
+### Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="42" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=java" height="42" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=php" height="42" alt="PHP" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=go" height="42" alt="Go" title="Go" />
+  <img src="https://skillicons.dev/icons?i=cs" height="42" alt="C#" title="C#" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="42" alt="Ruby" title="Ruby" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,materialui,html,css" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=react" height="42" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=vite" height="42" alt="Vite" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="42" alt="Material UI" title="Material UI" />
+  <img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS3" title="CSS3" />
 </p>
 
-### Backend
+### Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,graphql" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="42" alt="FastAPI" title="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=django" height="42" alt="Django" title="Django" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="42" alt="GraphQL" title="GraphQL" />
+  <img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge" height="32" alt="REST API" title="REST API" />
 </p>
 
-### Databases & Cache
+### Bases de datos, búsqueda & caché
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,dynamodb" alt="Databases and cache" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=redis" height="42" alt="Redis" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="42" alt="Amazon DynamoDB" title="Amazon DynamoDB" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="42" alt="Elasticsearch" title="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Qdrant-111827?style=for-the-badge" height="32" alt="Qdrant" title="Qdrant" />
 </p>
 
-### DevOps & Cloud
+### DevOps, Cloud & Infraestructura
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,terraform,githubactions,gitlab,linux,bash" alt="DevOps and cloud technologies" />
+  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" height="42" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="42" alt="Google Cloud Platform" title="Google Cloud Platform" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="42" alt="Terraform" title="Terraform" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="42" alt="Ansible" title="Ansible" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="42" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="42" alt="GitLab CI/CD" title="GitLab CI/CD" />
+  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=bash" height="42" alt="Bash" title="Bash" />
+</p>
+
+### Automatización, workflows & hardware
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" height="42" alt="Arduino" title="Arduino" />
+  <img src="https://img.shields.io/badge/Temporal-111827?style=for-the-badge" height="32" alt="Temporal" title="Temporal" />
+  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge" height="32" alt="Automation" title="Automation" />
+  <img src="https://img.shields.io/badge/Workflows-111827?style=for-the-badge" height="32" alt="Workflows" title="Workflows" />
 </p>
 
 <br />
