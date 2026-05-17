@@ -1,6 +1,3 @@
-Claro. Te dejo un `README.md` en inglés, profesional, detallado y **sin mencionar proyectos concretos**.
-
-```md
 <p align="center">
   <img src="./assets/github-banner.png" alt="Rober de Ávila Abraira - Tech Lead & Full-stack Developer" width="100%" />
 </p>
@@ -192,6 +189,3 @@ I like building tools and systems that reduce friction, improve productivity and
 
 - LinkedIn: [Rober de Ávila Abraira](https://www.linkedin.com/in/rober85/)
 - Email: [rober.abraira@gmail.com](mailto:rober.abraira@gmail.com)
-```
-
-Yo usaría este tal cual y luego, cuando tengas repos públicos fuertes, agregamos una sección abajo de **Featured Work** sin revelar nada reservado.
