@@ -1,191 +1,198 @@
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Rober de Ávila Abraira - Tech Lead & Full-stack Developer" width="100%" />
+  <img src="./assets/github-banner.jpeg" alt="Rober de Ávila Abraira - Tech Lead & Full-stack Developer" width="100%" />
 </p>
 
-# Hi, I'm Rober 👋
+<h1 align="center">Hi, I'm Rober 👋</h1>
 
-I'm a **Tech Lead, Full-stack Developer and DevOps Engineer** focused on building business-oriented software, automation systems and AI-powered solutions.
+<p align="center">
+  <strong>Tech Lead · Full-stack Developer · DevOps Engineer</strong>
+</p>
 
-I combine technical execution, architecture, team leadership and business thinking to turn ideas into practical software products. My work is usually focused on creating scalable applications, improving development workflows, automating repetitive processes and designing systems that help teams and businesses move faster.
+<p align="center">
+  Building business-focused software with automation, cloud infrastructure and AI-powered solutions.
+</p>
 
----
-
-## 🚀 What I do
-
-- Design and build full-stack web applications
-- Lead technical teams and software delivery processes
-- Define architecture for scalable and maintainable systems
-- Build internal tools and business software
-- Automate technical and operational workflows
-- Improve DevOps, CI/CD and deployment processes
-- Work with cloud infrastructure and containerized environments
-- Explore AI, automation and intelligent software systems
-- Connect business needs with technical solutions
-
----
-
-## 🧠 Main focus areas
-
-### Software Architecture
-
-I care about building systems that are clear, maintainable and prepared to evolve.
-
-- Modular architectures
-- Scalable backend systems
-- API design
-- Service-oriented design
-- Clean project structure
-- Reusable foundations
-- Technical decision-making
-- Long-term maintainability
-
-### Full-stack Development
-
-I work across the full application lifecycle, from frontend interfaces to backend services and infrastructure.
-
-- Frontend applications
-- Backend APIs
-- Admin panels and dashboards
-- Internal platforms
-- Business applications
-- Authentication and authorization
-- Data modeling
-- System integrations
-
-### DevOps & Infrastructure
-
-I like improving how software is built, shipped and operated.
-
-- Docker-based environments
-- CI/CD pipelines
-- Cloud deployments
-- Infrastructure automation
-- Monitoring and operational workflows
-- Environment configuration
-- Deployment reliability
-- Developer experience improvements
-
-### AI & Automation
-
-I'm currently exploring how AI can be applied to real business and technical problems.
-
-- AI-assisted workflows
-- Business process automation
-- AI-powered tools
-- LLM integrations
-- Retrieval-Augmented Generation
-- Vector databases
-- AI agents
-- Developer productivity with AI
-
-### Technical Leadership
-
-As a Tech Lead, I focus on helping teams make better technical decisions and deliver software with clarity.
-
-- Technical planning
-- Architecture guidance
-- Code quality
-- Team coordination
-- Mentoring developers
-- Product-oriented engineering
-- Breaking down complex problems
-- Aligning business goals with technical execution
+<p align="center">
+  <a href="https://www.linkedin.com/in/rober85/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rober%20de%20%C3%81vila%20Abraira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rober.abraira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech stack
+## About me
+
+I'm a **Tech Lead, Full-stack Developer and DevOps Engineer** focused on creating practical software solutions for real business needs.
+
+I work across the full software lifecycle: from understanding the business problem, designing the architecture and building the product, to automating deployments, improving development workflows and integrating modern technologies like AI and cloud infrastructure.
+
+I enjoy turning ideas into useful software, especially when technology can reduce repetitive work, improve operations or help teams move faster.
+
+---
+
+## What I do
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Software Engineering</h3>
+      <p>
+        I design and build scalable web applications, backend services, APIs, dashboards and internal platforms with a strong focus on maintainability and business value.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Technical Leadership</h3>
+      <p>
+        I help teams make better technical decisions, organize delivery, improve code quality and align engineering work with product and business goals.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>DevOps & Cloud</h3>
+      <p>
+        I work on CI/CD pipelines, containerized environments, cloud deployments, infrastructure automation and developer experience improvements.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>AI & Automation</h3>
+      <p>
+        I'm exploring how AI, automation, LLMs and intelligent workflows can be applied to real business and technical problems.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Core strengths
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Architecture-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--stack%20Development-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Technical%20Leadership-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20Infrastructure-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business%20Software-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Exploration-333333?style=for-the-badge" />
+</p>
+
+---
+
+## Tech stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk)
+<p>
+  <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=nextdotjs)
-![Vite](https://img.shields.io/badge/Vite-333333?style=for-the-badge&logo=vite)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=for-the-badge&logo=tailwindcss)
-![Material UI](https://img.shields.io/badge/Material_UI-333333?style=for-the-badge&logo=mui)
+<p>
+  <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-333333?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-333333?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20UI-333333?style=for-the-badge&logo=mui&logoColor=white" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs)
-![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-333333?style=for-the-badge&logo=django)
-![REST API](https://img.shields.io/badge/REST_API-333333?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-333333?style=for-the-badge&logo=graphql)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-333333?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphQL-333333?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
 
 ### Databases & Storage
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-333333?style=for-the-badge&logo=redis)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-333333?style=for-the-badge&logo=amazondynamodb)
-![Couchbase](https://img.shields.io/badge/Couchbase-333333?style=for-the-badge&logo=couchbase)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-333333?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-333333?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Couchbase-333333?style=for-the-badge&logo=couchbase&logoColor=white" />
+</p>
 
 ### DevOps & Cloud
 
-![Docker](https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-333333?style=for-the-badge&logo=googlecloud)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333333?style=for-the-badge&logo=githubactions)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-333333?style=for-the-badge&logo=gitlab)
-![Terraform](https://img.shields.io/badge/Terraform-333333?style=for-the-badge&logo=terraform)
-
-### Tools & Practices
-
-![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux)
-![CI/CD](https://img.shields.io/badge/CI/CD-333333?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-333333?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-333333?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-333333?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-333333?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-333333?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-333333?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
 
 ---
 
-## ⚙️ How I work
+## Areas I'm currently exploring
 
-I like to build software with a balance between technical quality and business value.
+<table>
+  <tr>
+    <td>AI-powered business software</td>
+    <td>LLM integrations</td>
+  </tr>
+  <tr>
+    <td>AI agents and automation workflows</td>
+    <td>RAG and vector search</td>
+  </tr>
+  <tr>
+    <td>Developer productivity tools</td>
+    <td>Internal platforms</td>
+  </tr>
+  <tr>
+    <td>Cloud-native architectures</td>
+    <td>Business process automation</td>
+  </tr>
+</table>
 
-For me, good software is not only about clean code. It also needs to solve the right problem, be useful for real users, be easy to maintain and help the business move forward.
+---
 
-I usually focus on:
+## How I work
 
-- Understanding the business problem before jumping into code
-- Designing simple solutions before adding complexity
-- Creating reusable foundations and tools
+I like building software with a balance between **technical quality**, **business value** and **execution speed**.
+
+My approach usually focuses on:
+
+- Understanding the real problem before writing code
+- Keeping architecture simple, clear and scalable
 - Automating repetitive work
-- Improving development speed without sacrificing quality
-- Building systems that can grow over time
-- Keeping teams aligned around clear technical decisions
+- Creating reusable foundations
+- Improving developer experience
+- Connecting business needs with technical execution
+- Building systems that can evolve over time
 
 ---
 
-## 🔎 Currently exploring
+## Philosophy
 
-- AI-powered business software
-- Automation systems
-- AI agents and multi-agent workflows
-- LLM integrations
-- RAG and vector search
-- Developer tools
-- Internal platforms
-- Cloud-native architectures
-- Better ways to connect software, operations and business processes
+<p align="center">
+  <em>
+    Good software is not only clean code.  
+    It is software that solves the right problem, helps people work better and creates real value.
+  </em>
+</p>
 
 ---
 
-## 💡 What drives me
+<p align="center">
+  <strong>Let's connect</strong>
+</p>
 
-I enjoy working at the intersection of **technology, business and automation**.
-
-I like building tools and systems that reduce friction, improve productivity and make complex processes easier to manage. Whether it's a business platform, a developer tool, an automation workflow or an AI-powered system, I care about creating software that has practical impact.
-
----
-
-## 📫 Contact
-
-- LinkedIn: [Rober de Ávila Abraira](https://www.linkedin.com/in/rober85/)
-- Email: [rober.abraira@gmail.com](mailto:rober.abraira@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rober85/">LinkedIn</a>
+  ·
+  <a href="mailto:rober.abraira@gmail.com">Email</a>
+</p>
