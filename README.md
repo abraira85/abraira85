@@ -88,49 +88,49 @@ My main focus is building systems that help businesses and teams move faster thr
 ### Languages
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,typescript,java,php,golang,cs,ruby&titles=true" alt="Languages" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,typescript,java,php,golang,cs,ruby&titles=true&perline=8" alt="Languages" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vite,tailwindcss,shadcn,materialui,html,css&titles=true" alt="Frontend" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vite,tailwindcss,shadcn,materialui,html,css&titles=true&perline=8" alt="Frontend" />
 </p>
 
 ### Backend & APIs
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,fastapi,django,nestjs,expressjs,graphql,api,swagger&titles=true" alt="Backend and APIs" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,fastapi,django,nestjs,expressjs,graphql,api,swagger&titles=true&perline=8" alt="Backend and APIs" />
 </p>
 
 ### Databases, Search & Cache
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,redis,dynamodb,elasticsearch,qdrant,couchbase&titles=true" alt="Databases, Search and Cache" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,redis,dynamodb,elasticsearch,qdrant,couchbase&titles=true&perline=8" alt="Databases, Search and Cache" />
 </p>
 
 ### DevOps, Cloud & Infrastructure
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,aws,gcp,firebase,terraform,ansible,githubactions,gitlab,nginx,linux,bash&titles=true&perline=12" alt="DevOps, Cloud and Infrastructure" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,aws,gcp,firebase,terraform,ansible,githubactions,gitlab,nginx,linux,bash&titles=true&perline=8" alt="DevOps, Cloud and Infrastructure" />
 </p>
 
 ### Quality, Testing & Tooling
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier,jest,vitest,storybook,pytest,turborepo,testinglibrary,postman,git,vscode&titles=true&perline=12" alt="Quality, Testing and Tooling" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier,jest,vitest,storybook,pytest,turborepo,testinglibrary,postman,git,vscode&titles=true&perline=8" alt="Quality, Testing and Tooling" />
 </p>
 
 ### Automation, Workflows & Hardware
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino,n8n,githubactions,gitlab,ansible,bash,linux,postman,swagger&titles=true" alt="Automation, Workflows and Hardware" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino,n8n,githubactions,gitlab,ansible,bash,linux,postman,swagger&titles=true&perline=8" alt="Automation, Workflows and Hardware" />
 </p>
 
 ### AI, LLMs & Developer Assistants
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,githubcopilot,cursor,deepseek,mistral,groq,huggingface,langchain,llamaindex,crewai,mcp&titles=true&perline=13" alt="AI, LLMs and Developer Assistants" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,githubcopilot,cursor,deepseek,mistral,groq,huggingface,langchain,llamaindex,crewai,mcp&titles=true&perline=8" alt="AI, LLMs and Developer Assistants" />
 </p>
 
 <br />
