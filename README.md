@@ -87,35 +87,116 @@ My main focus is building systems that help businesses and teams move faster thr
 
 ### Languages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,javascript,typescript,java,php,golang,cs,ruby&titles=true&perline=8&theme=dark&v=2)
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python&amp;theme=dark" height="42" alt="Python" title="Python" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&amp;theme=dark" height="42" alt="JavaScript" title="JavaScript" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&amp;theme=dark" height="42" alt="TypeScript" title="TypeScript" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java&amp;theme=dark" height="42" alt="Java" title="Java" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=php&amp;theme=dark" height="42" alt="PHP" title="PHP" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=golang&amp;theme=dark" height="42" alt="Go" title="Go" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs&amp;theme=dark" height="42" alt="C#" title="C#" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ruby&amp;theme=dark" height="42" alt="Ruby" title="Ruby" />
+</p>
 
 ### Frontend
 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vite,tailwindcss,shadcn,materialui,html,css&titles=true&perline=8&theme=dark&v=2)
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react&amp;theme=dark" height="42" alt="React" title="React" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs&amp;theme=dark" height="42" alt="Next.js" title="Next.js" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vite&amp;theme=dark" height="42" alt="Vite" title="Vite" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss&amp;theme=dark" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn&amp;theme=dark" height="42" alt="shadcn/ui" title="shadcn/ui" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=materialui&amp;theme=dark" height="42" alt="Material UI" title="Material UI" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html&amp;theme=dark" height="42" alt="HTML5" title="HTML5" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=css&amp;theme=dark" height="42" alt="CSS3" title="CSS3" />
+</p>
 
 ### Backend & APIs
 
-![Backend and APIs](https://go-skill-icons.vercel.app/api/icons?i=nodejs,fastapi,django,nestjs,expressjs,graphql,api,swagger&titles=true&perline=8&theme=dark&v=2)
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&amp;theme=dark" height="42" alt="Node.js" title="Node.js" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&amp;theme=dark" height="42" alt="FastAPI" title="FastAPI" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=django&amp;theme=dark" height="42" alt="Django" title="Django" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs&amp;theme=dark" height="42" alt="NestJS" title="NestJS" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs&amp;theme=dark" height="42" alt="Express.js" title="Express.js" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql&amp;theme=dark" height="42" alt="GraphQL" title="GraphQL" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=api&amp;theme=dark" height="42" alt="REST API" title="REST API" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger&amp;theme=dark" height="42" alt="Swagger / OpenAPI" title="Swagger / OpenAPI" />
+</p>
 
 ### Databases, Search & Cache
 
-![Databases Search and Cache](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,redis,dynamodb,elasticsearch,qdrant,couchbase&titles=true&perline=8&theme=dark&v=2)
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&amp;theme=dark" height="42" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&amp;theme=dark" height="42" alt="MySQL" title="MySQL" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&amp;theme=dark" height="42" alt="MongoDB" title="MongoDB" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&amp;theme=dark" height="42" alt="Redis" title="Redis" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb&amp;theme=dark" height="42" alt="Amazon DynamoDB" title="Amazon DynamoDB" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch&amp;theme=dark" height="42" alt="Elasticsearch" title="Elasticsearch" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant&amp;theme=dark" height="42" alt="Qdrant" title="Qdrant" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=couchbase&amp;theme=dark" height="42" alt="Couchbase" title="Couchbase" />
+</p>
 
 ### DevOps, Cloud & Infrastructure
 
-![DevOps Cloud and Infrastructure](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,aws,gcp,firebase,terraform,ansible,githubactions,gitlab,nginx,linux,bash&titles=true&perline=8&theme=dark&v=2)
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&amp;theme=dark" height="42" alt="Docker" title="Docker" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&amp;theme=dark" height="42" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws&amp;theme=dark" height="42" alt="AWS" title="AWS" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&amp;theme=dark" height="42" alt="Google Cloud Platform" title="Google Cloud Platform" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&amp;theme=dark" height="42" alt="Firebase" title="Firebase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=terraform&amp;theme=dark" height="42" alt="Terraform" title="Terraform" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ansible&amp;theme=dark" height="42" alt="Ansible" title="Ansible" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&amp;theme=dark" height="42" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab&amp;theme=dark" height="42" alt="GitLab CI/CD" title="GitLab CI/CD" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx&amp;theme=dark" height="42" alt="Nginx" title="Nginx" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&amp;theme=dark" height="42" alt="Linux" title="Linux" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&amp;theme=dark" height="42" alt="Bash" title="Bash" />
+</p>
 
 ### Quality, Testing & Tooling
 
-![Quality Testing and Tooling](https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier,jest,vitest,storybook,pytest,turborepo,testinglibrary,postman,git,vscode&titles=true&perline=8&theme=dark&v=2)
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=eslint&amp;theme=dark" height="42" alt="ESLint" title="ESLint" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=prettier&amp;theme=dark" height="42" alt="Prettier" title="Prettier" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jest&amp;theme=dark" height="42" alt="Jest" title="Jest" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vitest&amp;theme=dark" height="42" alt="Vitest" title="Vitest" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=storybook&amp;theme=dark" height="42" alt="Storybook" title="Storybook" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest&amp;theme=dark" height="42" alt="Pytest" title="Pytest" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=turborepo&amp;theme=dark" height="42" alt="Turborepo" title="Turborepo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=testinglibrary&amp;theme=dark" height="42" alt="Testing Library" title="Testing Library" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&amp;theme=dark" height="42" alt="Postman" title="Postman" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&amp;theme=dark" height="42" alt="Git" title="Git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&amp;theme=dark" height="42" alt="Visual Studio Code" title="Visual Studio Code" />
+</p>
 
 ### Automation, Workflows & Hardware
 
-![Automation Workflows and Hardware](https://go-skill-icons.vercel.app/api/icons?i=arduino,n8n,githubactions,gitlab,ansible,bash,linux,postman,swagger&titles=true&perline=8&theme=dark&v=2)
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino&amp;theme=dark" height="42" alt="Arduino" title="Arduino" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n&amp;theme=dark" height="42" alt="n8n" title="n8n" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&amp;theme=dark" height="42" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab&amp;theme=dark" height="42" alt="GitLab CI/CD" title="GitLab CI/CD" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ansible&amp;theme=dark" height="42" alt="Ansible" title="Ansible" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&amp;theme=dark" height="42" alt="Bash" title="Bash" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&amp;theme=dark" height="42" alt="Linux" title="Linux" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&amp;theme=dark" height="42" alt="Postman" title="Postman" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger&amp;theme=dark" height="42" alt="Swagger / OpenAPI" title="Swagger / OpenAPI" />
+</p>
 
 ### AI, LLMs & Developer Assistants
 
-![AI LLMs and Developer Assistants](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,githubcopilot,cursor,langchain,llamaindex,crewai,mcp&titles=true&perline=8&theme=dark&v=2)
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt&amp;theme=dark" height="42" alt="ChatGPT" title="ChatGPT" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&amp;theme=dark" height="42" alt="Claude" title="Claude" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini&amp;theme=dark" height="42" alt="Google Gemini" title="Google Gemini" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot&amp;theme=dark" height="42" alt="GitHub Copilot" title="GitHub Copilot" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor&amp;theme=dark" height="42" alt="Cursor" title="Cursor" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&amp;theme=dark" height="42" alt="LangChain" title="LangChain" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=llamaindex&amp;theme=dark" height="42" alt="LlamaIndex" title="LlamaIndex" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=crewai&amp;theme=dark" height="42" alt="CrewAI" title="CrewAI" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mcp&amp;theme=dark" height="42" alt="MCP" title="Model Context Protocol" />
+</p>
 
 <br />
 
