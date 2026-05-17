@@ -105,6 +105,7 @@ My main focus is building systems that help businesses and teams move faster thr
   <img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="Next.js" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=vite" height="42" alt="Vite" title="Vite" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge" height="32" alt="shadcn/ui" title="shadcn/ui" />
   <img src="https://skillicons.dev/icons?i=materialui" height="42" alt="Material UI" title="Material UI" />
   <img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML5" title="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS3" title="CSS3" />
@@ -119,7 +120,7 @@ My main focus is building systems that help businesses and teams move faster thr
   <img src="https://skillicons.dev/icons?i=nestjs" height="42" alt="NestJS" title="NestJS" />
   <img src="https://skillicons.dev/icons?i=express" height="42" alt="Express.js" title="Express.js" />
   <img src="https://skillicons.dev/icons?i=graphql" height="42" alt="GraphQL" title="GraphQL" />
-  <img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge" height="32" alt="REST API" title="REST API" />
+  <img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge&logo=swagger&logoColor=white" height="32" alt="REST API" title="REST API" />
 </p>
 
 ### Databases, Search & Cache
@@ -131,8 +132,8 @@ My main focus is building systems that help businesses and teams move faster thr
   <img src="https://skillicons.dev/icons?i=redis" height="42" alt="Redis" title="Redis" />
   <img src="https://skillicons.dev/icons?i=dynamodb" height="42" alt="Amazon DynamoDB" title="Amazon DynamoDB" />
   <img src="https://skillicons.dev/icons?i=elasticsearch" height="42" alt="Elasticsearch" title="Elasticsearch" />
-  <img src="https://img.shields.io/badge/Qdrant-111827?style=for-the-badge" height="32" alt="Qdrant" title="Qdrant" />
-  <img src="https://img.shields.io/badge/Couchbase-111827?style=for-the-badge" height="32" alt="Couchbase" title="Couchbase" />
+  <img src="https://img.shields.io/badge/Qdrant-111827?style=for-the-badge&logo=qdrant&logoColor=white" height="32" alt="Qdrant" title="Qdrant" />
+  <img src="https://img.shields.io/badge/Couchbase-111827?style=for-the-badge&logo=couchbase&logoColor=white" height="32" alt="Couchbase" title="Couchbase" />
   <img src="https://img.shields.io/badge/Vector%20Search-111827?style=for-the-badge" height="32" alt="Vector Search" title="Vector Search" />
 </p>
 
@@ -161,7 +162,7 @@ My main focus is building systems that help businesses and teams move faster thr
   <img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" title="Postman" />
   <img src="https://skillicons.dev/icons?i=arduino" height="42" alt="Arduino" title="Arduino" />
   <img src="https://img.shields.io/badge/Temporal-111827?style=for-the-badge" height="32" alt="Temporal" title="Temporal" />
-  <img src="https://img.shields.io/badge/Odoo-111827?style=for-the-badge" height="32" alt="Odoo" title="Odoo" />
+  <img src="https://img.shields.io/badge/Odoo-111827?style=for-the-badge&logo=odoo&logoColor=white" height="32" alt="Odoo" title="Odoo" />
   <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge" height="32" alt="Automation" title="Automation" />
   <img src="https://img.shields.io/badge/Workflows-111827?style=for-the-badge" height="32" alt="Workflows" title="Workflows" />
 </p>
@@ -172,8 +173,8 @@ My main focus is building systems that help businesses and teams move faster thr
   <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="OpenAI" title="OpenAI" />
   <img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="ChatGPT" title="ChatGPT" />
   <img src="https://img.shields.io/badge/Anthropic-111827?style=for-the-badge&logo=anthropic&logoColor=white" height="32" alt="Anthropic" title="Anthropic" />
-  <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white" height="32" alt="Claude" title="Claude" />
-  <img src="https://img.shields.io/badge/Claude%20Code-111827?style=for-the-badge&logo=anthropic&logoColor=white" height="32" alt="Claude Code" title="Claude Code" />
+  <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge" height="32" alt="Claude" title="Claude" />
+  <img src="https://img.shields.io/badge/Claude%20Code-111827?style=for-the-badge" height="32" alt="Claude Code" title="Claude Code" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white" height="32" alt="GitHub Copilot" title="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Google%20Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=white" height="32" alt="Google Gemini" title="Google Gemini" />
   <img src="https://img.shields.io/badge/LLM%20Integrations-111827?style=for-the-badge" height="32" alt="LLM Integrations" title="LLM Integrations" />
