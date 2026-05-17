@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner.jpeg" alt="Rober de Ávila Abraira - Tech Lead & Full-stack Developer" width="100%" />
+  <img src="./assets/github-banner.png" alt="Rober de Ávila Abraira - Tech Lead & Full-stack Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Rober 👋</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Building business-focused software with DevOps, automation and AI-powered solutions.
+  Turning business ideas into software, automation and AI-powered solutions.
 </p>
 
 <p align="center">
@@ -165,23 +165,22 @@ My main focus is building systems that help businesses and teams move faster thr
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest&amp;theme=dark" height="42" alt="Pytest" title="Pytest" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=turborepo&amp;theme=dark" height="42" alt="Turborepo" title="Turborepo" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=testinglibrary&amp;theme=dark" height="42" alt="Testing Library" title="Testing Library" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&amp;theme=dark" height="42" alt="Postman" title="Postman" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&amp;theme=dark" height="42" alt="Git" title="Git" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&amp;theme=dark" height="42" alt="Visual Studio Code" title="Visual Studio Code" />
 </p>
 
-### Automation, Workflows & Hardware
+### Developer Tools
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&amp;theme=dark" height="42" alt="Git" title="Git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&amp;theme=dark" height="42" alt="Visual Studio Code" title="Visual Studio Code" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&amp;theme=dark" height="42" alt="Postman" title="Postman" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger&amp;theme=dark" height="42" alt="Swagger / OpenAPI" title="Swagger / OpenAPI" />
+</p>
+
+### Automation & Hardware
 
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino&amp;theme=dark" height="42" alt="Arduino" title="Arduino" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n&amp;theme=dark" height="42" alt="n8n" title="n8n" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&amp;theme=dark" height="42" alt="GitHub Actions" title="GitHub Actions" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab&amp;theme=dark" height="42" alt="GitLab CI/CD" title="GitLab CI/CD" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ansible&amp;theme=dark" height="42" alt="Ansible" title="Ansible" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&amp;theme=dark" height="42" alt="Bash" title="Bash" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&amp;theme=dark" height="42" alt="Linux" title="Linux" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&amp;theme=dark" height="42" alt="Postman" title="Postman" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger&amp;theme=dark" height="42" alt="Swagger / OpenAPI" title="Swagger / OpenAPI" />
 </p>
 
 ### AI, LLMs & Developer Assistants
@@ -191,10 +190,8 @@ My main focus is building systems that help businesses and teams move faster thr
   <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&amp;theme=dark" height="42" alt="Claude" title="Claude" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini&amp;theme=dark" height="42" alt="Google Gemini" title="Google Gemini" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot&amp;theme=dark" height="42" alt="GitHub Copilot" title="GitHub Copilot" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor&amp;theme=dark" height="42" alt="Cursor" title="Cursor" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&amp;theme=dark" height="42" alt="LangChain" title="LangChain" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=llamaindex&amp;theme=dark" height="42" alt="LlamaIndex" title="LlamaIndex" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=crewai&amp;theme=dark" height="42" alt="CrewAI" title="CrewAI" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mcp&amp;theme=dark" height="42" alt="MCP" title="Model Context Protocol" />
 </p>
 
@@ -217,7 +214,7 @@ My main focus is building systems that help businesses and teams move faster thr
   <img src="https://img.shields.io/badge/Execution-111827?style=for-the-badge" alt="Execution" title="Execution" />
 </p>
 
-<br/>
+<br />
 
 ## Areas I'm exploring
 
