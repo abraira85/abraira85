@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Rober de Ávila Abraira - Tech Lead & Full-stack Developer" width="100%" />
+  <img src="./assets/github-banner.jpeg" alt="Rober de Ávila Abraira - Tech Lead & Full-stack Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Rober 👋</h1>
