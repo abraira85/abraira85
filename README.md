@@ -13,7 +13,7 @@ Everything below is in production use, not résumé filler.
 
 ## `~ ❯ neofetch --avatar`
 
-<p align="center"><img src="./assets/neofetch.svg" width="100%" alt="Rober de Ávila Abraira, tech lead and full-stack engineer, Granada Spain. OS builder, host outboss.io, shell zsh, locale en_US and es_ES, modes architect builder automator lead, focus business software automation AI workflows. Native Spanish speaker, intermediate English."></p>
+<p align="center"><img src="./assets/neofetch.svg" width="100%" alt="Rober de Ávila Abraira, tech lead and full-stack engineer, Granada Spain. OS Ubuntu, host outboss.io, shell zsh, editor VS Code, locale en_US and es_ES, modes architect builder automator lead, focus business software automation AI workflows, on GitHub since 2019. Native Spanish speaker, intermediate English."></p>
 
 ## `~ ❯ tail -f /var/log/lab.log`
 
