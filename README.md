@@ -43,11 +43,11 @@ ls: cannot access matching entries — directory is currently empty
 
 | PORT | SERVICE  | ENDPOINT | STATE |
 |------|----------|----------|-------|
-| :443 | https    | [outboss.io](https://outboss.io) | open |
-| :443 | linkedin | [linkedin.com/in/rober85](https://www.linkedin.com/in/rober85/) | open |
-| :443 | resume   | [cv.pdf](./assets/cv-rober-de-avila-abraira.pdf) | open |
-| :587 | smtp     | [rober@outboss.io](mailto:rober@outboss.io) | open |
-| :443 | telegram | [t.me/rober85](https://t.me/rober85) | open |
+| :443 | https    | <a href="https://outboss.io" target="_blank" rel="noopener noreferrer">outboss.io</a> | open |
+| :443 | linkedin | <a href="https://www.linkedin.com/in/rober85/" target="_blank" rel="noopener noreferrer">linkedin.com/in/rober85</a> | open |
+| :443 | resume   | <a href="./assets/cv-rober-de-avila-abraira.pdf" target="_blank" rel="noopener noreferrer">cv.pdf</a> | open |
+| :587 | smtp     | <a href="mailto:rober@outboss.io" target="_blank" rel="noopener noreferrer">rober@outboss.io</a> | open |
+| :443 | telegram | <a href="https://t.me/rober85" target="_blank" rel="noopener noreferrer">t.me/rober85</a> | open |
 
 <details>
 <summary><code>~ ❯ man rober</code></summary>
@@ -75,4 +75,4 @@ SEE ALSO
 
 <p align="center"><img src="./assets/heartbeat-footer.svg" width="100%" alt="Status: all systems operational — good software solves the right problem"></p>
 
-<p align="center"><a href="https://outboss.io">outboss.io</a> · <a href="https://www.linkedin.com/in/rober85/">linkedin</a> · <a href="./assets/cv-rober-de-avila-abraira.pdf">cv</a> · <a href="mailto:rober@outboss.io">email</a> · <a href="https://t.me/rober85">telegram</a><br><sub>session persists — reconnect anytime</sub></p>
+<p align="center"><a href="https://outboss.io" target="_blank" rel="noopener noreferrer">outboss.io</a> · <a href="https://www.linkedin.com/in/rober85/" target="_blank" rel="noopener noreferrer">linkedin</a> · <a href="./assets/cv-rober-de-avila-abraira.pdf" target="_blank" rel="noopener noreferrer">cv</a> · <a href="mailto:rober@outboss.io" target="_blank" rel="noopener noreferrer">email</a> · <a href="https://t.me/rober85" target="_blank" rel="noopener noreferrer">telegram</a><br><sub>session persists — reconnect anytime</sub></p>
