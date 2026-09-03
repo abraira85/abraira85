@@ -27,7 +27,7 @@ Everything below is in production use, not résumé filler.
 <code>Terminal</code> tmux<br>
 <code>Locale</code>&nbsp;&nbsp;en_US · es_ES<br>
 <code>Modes</code>&nbsp;&nbsp;architect · builder · automator · lead<br>
-<code>Session</code> private lab — running
+<code>Focus</code>&nbsp;&nbsp;&nbsp;business software · automation · AI workflows
 <br><br>
 <sub>Based in Granada, working with distributed teams across time zones. Native Spanish speaker — intermediate English, reading and writing.</sub>
 </td>
