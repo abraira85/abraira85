@@ -2,26 +2,7 @@
 
 <p align="center">I work where <strong>product, engineering and operations</strong> meet — turning business ideas, internal processes and technical ambiguity into useful, maintainable software.</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- Understand the real problem before writing code.
-- Keep architecture simple, explicit and scalable.
-- Build useful software, not just technical demos.
-- Automate repetitive work whenever it has real leverage.
-
-</td>
-<td width="50%" valign="top">
-
-- Improve developer experience and delivery flow.
-- Connect business needs with technical execution.
-- Make technical decisions with practical impact.
-- Think in products, systems and outcomes.
-
-</td>
-</tr>
-</table>
+<p align="center"><img src="./assets/principles.svg" width="100%" alt="How I work: understand the real problem before writing code; keep architecture simple, explicit and scalable; build useful software, not just technical demos; automate repetitive work whenever it has real leverage; improve developer experience and delivery flow; connect business needs with technical execution; make technical decisions with practical impact; think in products, systems and outcomes."></p>
 
 ## `~ ❯ docker compose ps`
 
