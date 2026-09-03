@@ -1,0 +1,147 @@
+<svg width="1600" height="760" viewBox="0 0 1600 760" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<title id="t">Rober de Ávila Abraira — sesión de terminal en vivo</title>
+<desc id="d">Tech Lead e Ingeniero Full-stack en Granada, España. Una terminal escribe whoami, run --modos y cat /etc/filosofia, con un panel de monitorización en vivo.</desc>
+<defs>
+<linearGradient id="triad" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38BDF8"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/>
+</linearGradient>
+<linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#0D0D1F"/><stop offset="1" stop-color="#06060F"/>
+</linearGradient>
+<filter id="blur4" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4"/></filter>
+<filter id="blur5" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="5"/></filter>
+<filter id="blur3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+<clipPath id="cardClip"><rect x="2" y="2" width="1596" height="756" rx="16"/></clipPath>
+<clipPath id="sparkClip"><rect x="1104" y="545" width="448" height="120"/></clipPath>
+<linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
+<stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.04"/>
+<stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.transcript{animation:tfade 26s linear infinite}
+@keyframes tfade{0%{opacity:0}3%{opacity:1}97.7%{opacity:1}99.2%{opacity:0}100%{opacity:0}}
+@keyframes rl2{0%,7.308%{opacity:0;transform:translateY(6px)}7.885%,99.5%{opacity:1;transform:translateY(0)}100%{opacity:1}}
+@keyframes rl3{0%,8.462%{opacity:0;transform:translateY(6px)}9.038%,99.5%{opacity:1;transform:translateY(0)}100%{opacity:1}}
+@keyframes rl4{0%,9.615%{opacity:0;transform:translateY(6px)}10.192%,99.5%{opacity:1;transform:translateY(0)}100%{opacity:1}}
+@keyframes rl6{0%,18.462%{opacity:0;transform:translateY(6px)}19.038%,99.5%{opacity:1;transform:translateY(0)}100%{opacity:1}}
+@keyframes rl7{0%,20.0%{opacity:0;transform:translateY(6px)}20.577%,99.5%{opacity:1;transform:translateY(0)}100%{opacity:1}}
+@keyframes rl8{0%,21.538%{opacity:0;transform:translateY(6px)}22.115%,99.5%{opacity:1;transform:translateY(0)}100%{opacity:1}}
+@keyframes rl9{0%,23.077%{opacity:0;transform:translateY(6px)}23.654%,99.5%{opacity:1;transform:translateY(0)}100%{opacity:1}}
+@keyframes rl11{0%,36.538%{opacity:0;transform:translateY(6px)}37.115%,99.5%{opacity:1;transform:translateY(0)}100%{opacity:1}}
+@keyframes rl12{0%,38.077%{opacity:0;transform:translateY(6px)}38.654%,99.5%{opacity:1;transform:translateY(0)}100%{opacity:1}}
+@keyframes rl13{0%,40.769%{opacity:0;transform:translateY(6px)}41.538%,99.5%{opacity:1;transform:translateY(0)}100%{opacity:1}}
+.rl2{animation:rl2 26s linear infinite}
+.rl3{animation:rl3 26s linear infinite}
+.rl4{animation:rl4 26s linear infinite}
+.rl6{animation:rl6 26s linear infinite}
+.rl7{animation:rl7 26s linear infinite}
+.rl8{animation:rl8 26s linear infinite}
+.rl9{animation:rl9 26s linear infinite}
+.rl11{animation:rl11 26s linear infinite}
+.rl12{animation:rl12 26s linear infinite}
+.rl13{animation:rl13 26s linear infinite}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.cur{animation:blink 1.06s steps(1,end) infinite}
+@keyframes glowbreathe{0%,100%{opacity:0.25}50%{opacity:0.45}}
+.outerglow{animation:glowbreathe 6s ease-in-out infinite}
+@keyframes dotpulse{0%,100%{opacity:1}50%{opacity:0.3}}
+.dot28{animation:dotpulse 2.8s ease-in-out infinite}
+.dot24{animation:dotpulse 2.4s ease-in-out infinite}
+@keyframes scan{0%{transform:translateY(-90px)}100%{transform:translateY(760px)}}
+.scanline{animation:scan 9s linear infinite}
+@keyframes sparkscroll{0%{transform:translateX(0)}100%{transform:translateX(-448px)}}
+.spark{animation:sparkscroll 16s linear infinite}
+</style>
+
+<rect class="outerglow" x="2" y="2" width="1596" height="756" rx="16" fill="none" stroke="url(#triad)" stroke-width="6" filter="url(#blur5)"/>
+<rect x="2" y="2" width="1596" height="756" rx="16" fill="url(#cardbg)" stroke="url(#triad)" stroke-width="2"/>
+
+<g clip-path="url(#cardClip)">
+<ellipse cx="260" cy="80" rx="560" ry="260" fill="#3B82F6" opacity="0.07"/>
+<ellipse cx="1400" cy="90" rx="420" ry="220" fill="#EC4899" opacity="0.05"/>
+
+<line x1="2" y1="56" x2="1598" y2="56" stroke="#1E2440" stroke-width="1"/>
+<circle cx="36" cy="28" r="7" fill="#FF5F57" stroke="rgba(0,0,0,0.25)" stroke-width="1"/>
+<circle cx="60" cy="28" r="7" fill="#FEBC2E" stroke="rgba(0,0,0,0.25)" stroke-width="1"/>
+<circle cx="84" cy="28" r="7" fill="#28C840" stroke="rgba(0,0,0,0.25)" stroke-width="1"/>
+<text x="800" y="34" text-anchor="middle" font-size="18" fill="#8A93B2">abraira85@outboss: ~ (tmux)</text>
+
+<line x1="1072" y1="57" x2="1072" y2="716" stroke="#262C4A" stroke-width="1"/>
+
+<g class="transcript">
+<text x="48" y="110" font-size="26"><tspan fill="#C4B5FD">~</tspan><tspan fill="#8A93B2"> </tspan><tspan fill="#38BDF8">❯</tspan><tspan fill="#8A93B2"> </tspan><tspan fill="#E6E9F5">w<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.03846;0.977"/></tspan><tspan fill="#E6E9F5">h<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.04231;0.977"/></tspan><tspan fill="#E6E9F5">o<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.04615;0.977"/></tspan><tspan fill="#E6E9F5">a<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.05;0.977"/></tspan><tspan fill="#E6E9F5">m<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.05385;0.977"/></tspan><tspan fill="#E6E9F5">i<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.05769;0.977"/></tspan></text>
+
+<g class="rl2"><text x="48" y="160" font-size="34" font-weight="700" fill="url(#triad)">Rober de Ávila Abraira</text></g>
+<g class="rl3"><text x="48" y="202" font-size="24" fill="#E6E9F5">tech lead e ingeniero full-stack</text></g>
+<g class="rl4"><text x="48" y="244" font-size="22" fill="#8A93B2">granada, españa · outboss.io</text></g>
+
+<text x="48" y="300" font-size="26"><tspan fill="#C4B5FD">~</tspan><tspan fill="#8A93B2"> </tspan><tspan fill="#38BDF8">❯</tspan><tspan fill="#8A93B2"> </tspan><tspan fill="#E6E9F5">.<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.12308;0.977"/></tspan><tspan fill="#E6E9F5">/<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.12692;0.977"/></tspan><tspan fill="#E6E9F5">r<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.13077;0.977"/></tspan><tspan fill="#E6E9F5">u<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.13462;0.977"/></tspan><tspan fill="#E6E9F5">n<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.13846;0.977"/></tspan><tspan fill="#E6E9F5"> <animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.14231;0.977"/></tspan><tspan fill="#E6E9F5">-<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.14615;0.977"/></tspan><tspan fill="#E6E9F5">-<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.15;0.977"/></tspan><tspan fill="#E6E9F5">m<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.15385;0.977"/></tspan><tspan fill="#E6E9F5">o<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.15769;0.977"/></tspan><tspan fill="#E6E9F5">d<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.16154;0.977"/></tspan><tspan fill="#E6E9F5">o<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.16538;0.977"/></tspan><tspan fill="#E6E9F5">s<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.16923;0.977"/></tspan></text>
+
+<g class="rl6"><text x="48" y="342" font-size="22"><tspan fill="#38BDF8">[ok]</tspan><tspan fill="#8A93B2"> arquitecto · sistemas comprensibles al crecer</tspan></text></g><g class="rl7"><text x="48" y="384" font-size="22"><tspan fill="#38BDF8">[ok]</tspan><tspan fill="#8A93B2"> builder    · productos, APIs, plataformas internas</tspan></text></g><g class="rl8"><text x="48" y="426" font-size="22"><tspan fill="#38BDF8">[ok]</tspan><tspan fill="#8A93B2"> automator  · flujos, integraciones, herramientas IA</tspan></text></g><g class="rl9"><text x="48" y="468" font-size="22"><tspan fill="#38BDF8">[ok]</tspan><tspan fill="#8A93B2"> lead       · mejores decisiones técnicas, entregadas</tspan></text></g>
+
+<text x="48" y="524" font-size="26"><tspan fill="#C4B5FD">~</tspan><tspan fill="#8A93B2"> </tspan><tspan fill="#38BDF8">❯</tspan><tspan fill="#8A93B2"> </tspan><tspan fill="#E6E9F5">c<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.28077;0.977"/></tspan><tspan fill="#E6E9F5">a<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.28462;0.977"/></tspan><tspan fill="#E6E9F5">t<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.28846;0.977"/></tspan><tspan fill="#E6E9F5"> <animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.29231;0.977"/></tspan><tspan fill="#E6E9F5">/<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.29615;0.977"/></tspan><tspan fill="#E6E9F5">e<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.3;0.977"/></tspan><tspan fill="#E6E9F5">t<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.30385;0.977"/></tspan><tspan fill="#E6E9F5">c<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.30769;0.977"/></tspan><tspan fill="#E6E9F5">/<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.31154;0.977"/></tspan><tspan fill="#E6E9F5">f<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.31538;0.977"/></tspan><tspan fill="#E6E9F5">i<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.31923;0.977"/></tspan><tspan fill="#E6E9F5">l<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.32308;0.977"/></tspan><tspan fill="#E6E9F5">o<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.32692;0.977"/></tspan><tspan fill="#E6E9F5">s<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.33077;0.977"/></tspan><tspan fill="#E6E9F5">o<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.33462;0.977"/></tspan><tspan fill="#E6E9F5">f<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.33846;0.977"/></tspan><tspan fill="#E6E9F5">i<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.34231;0.977"/></tspan><tspan fill="#E6E9F5">a<animate attributeName="opacity" repeatCount="indefinite" dur="26s" calcMode="discrete" values="0;1;0" keyTimes="0;0.34615;0.977"/></tspan></text>
+
+<g class="rl11"><text x="48" y="566" font-size="24" fill="#A78BFA">privado por defecto, público cuando está listo.</text></g>
+<g class="rl12"><text x="48" y="608" font-size="24" fill="#A78BFA">el buen software resuelve el problema correcto.</text></g>
+
+<g class="rl13">
+<text x="48" y="664" font-size="26"><tspan fill="#C4B5FD">~</tspan><tspan fill="#8A93B2"> </tspan><tspan fill="#38BDF8">❯</tspan><tspan fill="#8A93B2"> </tspan></text>
+<rect class="cur" x="110" y="644" width="14" height="28" fill="#38BDF8"/>
+</g>
+</g>
+
+<rect class="scanline" x="2" y="0" width="1596" height="90" fill="url(#scanGrad)" opacity="0.5"/>
+
+<text x="1104" y="100" font-size="18" fill="#8A93B2"><tspan class="dot28" fill="#EC4899">●</tspan> monitor.modos</text>
+
+<text x="1104" y="150" font-size="16" letter-spacing="2" fill="#C4B5FD">ARQUITECTO</text>
+<rect x="1104" y="168" width="380" height="10" rx="5" fill="#10152B" stroke="#262C4A" stroke-width="1"/>
+<rect x="1104" y="168" width="220" height="10" rx="5" fill="url(#triad)" filter="url(#blur4)" opacity="0.3">
+<animate attributeName="width" values="220;330;220" dur="7s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
+</rect>
+<rect x="1104" y="168" width="220" height="10" rx="5" fill="url(#triad)">
+<animate attributeName="width" values="220;330;220" dur="7s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
+</rect>
+<text x="1104" y="242" font-size="16" letter-spacing="2" fill="#C4B5FD">BUILDER</text>
+<rect x="1104" y="260" width="380" height="10" rx="5" fill="#10152B" stroke="#262C4A" stroke-width="1"/>
+<rect x="1104" y="260" width="260" height="10" rx="5" fill="url(#triad)" filter="url(#blur4)" opacity="0.3">
+<animate attributeName="width" values="260;352;260" dur="8.5s" begin="-2s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
+</rect>
+<rect x="1104" y="260" width="260" height="10" rx="5" fill="url(#triad)">
+<animate attributeName="width" values="260;352;260" dur="8.5s" begin="-2s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
+</rect>
+<text x="1104" y="334" font-size="16" letter-spacing="2" fill="#C4B5FD">AUTOMATOR</text>
+<rect x="1104" y="352" width="380" height="10" rx="5" fill="#10152B" stroke="#262C4A" stroke-width="1"/>
+<rect x="1104" y="352" width="200" height="10" rx="5" fill="url(#triad)" filter="url(#blur4)" opacity="0.3">
+<animate attributeName="width" values="200;340;200" dur="6s" begin="-4s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
+</rect>
+<rect x="1104" y="352" width="200" height="10" rx="5" fill="url(#triad)">
+<animate attributeName="width" values="200;340;200" dur="6s" begin="-4s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
+</rect>
+<text x="1104" y="426" font-size="16" letter-spacing="2" fill="#C4B5FD">LEAD</text>
+<rect x="1104" y="444" width="380" height="10" rx="5" fill="#10152B" stroke="#262C4A" stroke-width="1"/>
+<rect x="1104" y="444" width="240" height="10" rx="5" fill="url(#triad)" filter="url(#blur4)" opacity="0.3">
+<animate attributeName="width" values="240;326;240" dur="9.5s" begin="-1s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
+</rect>
+<rect x="1104" y="444" width="240" height="10" rx="5" fill="url(#triad)">
+<animate attributeName="width" values="240;326;240" dur="9.5s" begin="-1s" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1" keyTimes="0;0.5;1"/>
+</rect>
+
+<text x="1104" y="530" font-size="16" fill="#8A93B2">net.stream</text>
+<g clip-path="url(#sparkClip)">
+<g class="spark">
+<polyline points="1104.0,615.0 1141.3,646.6 1178.7,588.3 1216.0,576.1 1253.3,619.8 1290.7,638.5 1328.0,585.6 1365.3,579.0 1402.7,635.1 1440.0,631.7 1477.3,558.6 1514.7,598.7 1552.0,657.0 1552.0,615.0 1589.3,646.6 1626.7,588.3 1664.0,576.1 1701.3,619.8 1738.7,638.5 1776.0,585.6 1813.3,579.0 1850.7,635.1 1888.0,631.7 1925.3,558.6 1962.7,598.7 2000.0,657.0" fill="none" stroke="url(#triad)" stroke-width="2" filter="url(#blur3)" opacity="0.3"/>
+<polyline points="1104.0,615.0 1141.3,646.6 1178.7,588.3 1216.0,576.1 1253.3,619.8 1290.7,638.5 1328.0,585.6 1365.3,579.0 1402.7,635.1 1440.0,631.7 1477.3,558.6 1514.7,598.7 1552.0,657.0 1552.0,615.0 1589.3,646.6 1626.7,588.3 1664.0,576.1 1701.3,619.8 1738.7,638.5 1776.0,585.6 1813.3,579.0 1850.7,635.1 1888.0,631.7 1925.3,558.6 1962.7,598.7 2000.0,657.0" fill="none" stroke="#38BDF8" stroke-width="2"/>
+</g>
+</g>
+
+<rect x="2" y="716" width="1596" height="42" fill="#0B1020"/>
+<line x1="2" y1="716" x2="1598" y2="716" stroke="#1E2440" stroke-width="1"/>
+<text x="48" y="742" font-size="16" fill="#8A93B2">[outboss] 0:intro 1:modos 2:filosofia*</text>
+<text x="1530" y="742" text-anchor="end" font-size="16" fill="#8A93B2">37.1773N 3.5986W · granada · utc+1</text>
+<circle class="dot24" cx="1544" cy="737" r="5" fill="#38BDF8"/>
+</g>
+</svg>

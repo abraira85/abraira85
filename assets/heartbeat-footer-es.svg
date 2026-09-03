@@ -1,0 +1,33 @@
+<svg width="1600" height="240" viewBox="0 0 1600 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<title id="t">estado: siempre activo</title>
+<desc id="d">Pie de estado con latido — todos los sistemas operativos.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0D0D1F"/><stop offset="1" stop-color="#06060F"/></linearGradient>
+<linearGradient id="tri" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1600" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+<filter id="f1" x="-1%" y="-8%" width="102%" height="116%"><feGaussianBlur stdDeviation="4"/></filter>
+<filter id="f2" x="-2%" y="-80%" width="104%" height="260%"><feGaussianBlur stdDeviation="4"/></filter>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1E2440" stroke-width="1"/></pattern>
+<path id="ekg" pathLength="200" d="M80 128H256Q263 120 270 128H284L290 136L300 94L310 150L318 128Q332 116 346 128H636Q643 120 650 128H664L670 136L680 94L690 150L698 128Q712 116 726 128H1016Q1023 120 1030 128H1044L1050 136L1060 94L1070 150L1078 128Q1092 116 1106 128H1336Q1343 120 1350 128H1364L1370 136L1380 94L1390 150L1398 128Q1412 116 1426 128H1520"/>
+</defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.glow{animation:br 6s ease-in-out infinite}
+.led{animation:lp 2.4s ease-in-out infinite}
+.pulse{stroke-dasharray:22 178;animation:run 4s linear infinite}
+@keyframes br{0%,100%{opacity:.2}50%{opacity:.4}}
+@keyframes lp{0%,100%{opacity:1}50%{opacity:.3}}
+@keyframes run{from{stroke-dashoffset:200}to{stroke-dashoffset:0}}
+</style>
+<rect x="2" y="2" width="1596" height="236" rx="16" fill="url(#bg)"/>
+<rect x="2" y="2" width="1596" height="236" rx="16" fill="url(#grid)" opacity="0.18"/>
+<rect class="glow" x="2" y="2" width="1596" height="236" rx="16" fill="none" stroke="url(#tri)" stroke-width="5" filter="url(#f1)" opacity="0.2"/>
+<rect x="2" y="2" width="1596" height="236" rx="16" fill="none" stroke="url(#tri)" stroke-width="1.5"/>
+<use href="#ekg" fill="none" stroke="#262C4A" stroke-width="2" stroke-linejoin="round"/>
+<use class="pulse" href="#ekg" fill="none" stroke="url(#tri)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.35" filter="url(#f2)"/>
+<use class="pulse" href="#ekg" fill="none" stroke="url(#tri)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle class="led" cx="300" cy="55" r="6" fill="#38BDF8"/>
+<text x="800" y="62" text-anchor="middle" font-size="20" fill="#C4B5FD">sistemas operativos — construyendo en privado, publicando cuando está listo</text>
+<text x="800" y="196" text-anchor="middle" font-size="24" fill="#E6E9F5"><tspan fill="#38BDF8">❯</tspan> el buen software resuelve el problema correcto</text>
+<text x="48" y="222" font-size="14" fill="#8A93B2">tty: abraira85</text>
+<text x="1552" y="222" text-anchor="end" font-size="14" fill="#8A93B2">[ salir: <tspan fill="#EC4899">nunca</tspan> ]</text>
+</svg>
