@@ -27,7 +27,7 @@
 
 Everything below is in production use, not résumé filler.
 
-<img src="./assets/stack.svg" width="100%" alt="docker compose ps: frontend (TypeScript, React, Next.js), api (Node.js, NestJS, Python, FastAPI), data (PostgreSQL, Redis, Elasticsearch), infra (Docker, Kubernetes, AWS, GCP, GitHub Actions) — all healthy">
+<img src="./assets/stack.svg?v=2" width="100%" alt="docker compose ps: frontend (TypeScript, React, Next.js), api (Node.js, NestJS, Python, FastAPI), data (PostgreSQL, Redis, Elasticsearch), infra (Docker, Kubernetes, AWS, GCP, GitHub Actions) — all healthy">
 
 
 ## `~ ❯ neofetch --avatar`
