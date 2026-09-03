@@ -1,5 +1,4 @@
-<p align="left"><a href="./README.md"><img src="./assets/tab-english-en.svg" width="240" alt="0:english — current language"></a><a href="./README.es.md"><img src="./assets/tab-spanish-en.svg" width="240" alt="1:español — cambiar a español"></a></p>
-<p align="center"><img src="./assets/hero-terminal-en.svg" width="100%" alt="Terminal session: whoami — Rober de Ávila Abraira, Tech Lead &amp; Full-stack Engineer, Granada ES, outboss.io; modes: architect, builder, automator, lead; philosophy: private by default, public when ready"></p>
+<p align="center"><img src="./assets/hero-terminal.svg" width="100%" alt="Terminal session: whoami — Rober de Ávila Abraira, Tech Lead &amp; Full-stack Engineer, Granada ES, outboss.io; modes: architect, builder, automator, lead; philosophy: private by default, public when ready"></p>
 
 <p align="center">I work where <strong>product, engineering and operations</strong> meet — turning business ideas, internal processes and technical ambiguity into useful, maintainable software.</p>
 
@@ -38,7 +37,7 @@ infra      docker · kubernetes · aws · gcp · actions  Up (healthy)
 
 A private lab of AI and product experiments runs continuously. Repos surface here only when they are clean, documented and worth showing.
 
-<img src="./assets/lab-log-en.svg" width="100%" alt="Private lab log: ai-workflow, internal-platform and agent-tooling entries redacted; release policy — public when ready">
+<img src="./assets/lab-log.svg" width="100%" alt="Private lab log: ai-workflow, internal-platform and agent-tooling entries redacted; release policy — public when ready">
 
 <details>
 <summary><code>~ ❯ cat notes/declassified.md</code></summary>
@@ -92,6 +91,6 @@ SEE ALSO
 
 </details>
 
-<p align="center"><img src="./assets/heartbeat-footer-en.svg" width="100%" alt="Status: all systems operational — good software solves the right problem"></p>
+<p align="center"><img src="./assets/heartbeat-footer.svg" width="100%" alt="Status: all systems operational — good software solves the right problem"></p>
 
 <p align="center"><a href="https://outboss.io">outboss.io</a> · <a href="https://www.linkedin.com/in/rober85/">linkedin</a> · <a href="./assets/cv-rober-de-avila-abraira.pdf">cv</a> · <a href="mailto:rober@outboss.io">email</a> · <a href="https://t.me/rober85">telegram</a><br><sub>session persists — reconnect anytime</sub></p>
