@@ -13,26 +13,7 @@ Everything below is in production use, not résumé filler.
 
 ## `~ ❯ neofetch --avatar`
 
-<table>
-<tr>
-<td width="30%" valign="top"><img src="./assets/portrait-neon.webp" width="100%" alt="Rober de Ávila Abraira"></td>
-<td width="70%" valign="top">
-<br>
-<strong>Rober de Ávila Abraira</strong><br>
-<sub>tech lead &amp; full-stack engineer</sub>
-<br><br>
-<code>OS</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;builder (Granada, ES)<br>
-<code>Host</code>&nbsp;&nbsp;&nbsp;&nbsp;outboss.io<br>
-<code>Shell</code>&nbsp;&nbsp;&nbsp;zsh<br>
-<code>Terminal</code> tmux<br>
-<code>Locale</code>&nbsp;&nbsp;en_US · es_ES<br>
-<code>Modes</code>&nbsp;&nbsp;architect · builder · automator · lead<br>
-<code>Focus</code>&nbsp;&nbsp;&nbsp;business software · automation · AI workflows
-<br><br>
-<sub>Based in Granada, working with distributed teams across time zones. Native Spanish speaker — intermediate English, reading and writing.</sub>
-</td>
-</tr>
-</table>
+<p align="center"><img src="./assets/neofetch.svg" width="100%" alt="Rober de Ávila Abraira, tech lead and full-stack engineer, Granada Spain. OS builder, host outboss.io, shell zsh, locale en_US and es_ES, modes architect builder automator lead, focus business software automation AI workflows. Native Spanish speaker, intermediate English."></p>
 
 ## `~ ❯ tail -f /var/log/lab.log`
 
