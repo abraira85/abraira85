@@ -2,17 +2,33 @@
 
 <p align="center">I work where <strong>product, engineering and operations</strong> meet — turning business ideas, internal processes and technical ambiguity into useful, maintainable software.</p>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- Understand the real problem before writing code.
+- Keep architecture simple, explicit and scalable.
+- Build useful software, not just technical demos.
+- Automate repetitive work whenever it has real leverage.
+
+</td>
+<td width="50%" valign="top">
+
+- Improve developer experience and delivery flow.
+- Connect business needs with technical execution.
+- Make technical decisions with practical impact.
+- Think in products, systems and outcomes.
+
+</td>
+</tr>
+</table>
+
 ## `~ ❯ docker compose ps`
 
 Everything below is in production use, not résumé filler.
 
-```text
-NAME       IMAGE                                      STATUS
-frontend   typescript · react · next.js               Up (healthy)
-api        node.js · nestjs · python · fastapi        Up (healthy)
-data       postgresql · redis · elasticsearch         Up (healthy)
-infra      docker · kubernetes · aws · gcp · actions  Up (healthy)
-```
+<img src="./assets/stack.svg" width="100%" alt="docker compose ps: frontend (TypeScript, React, Next.js), api (Node.js, NestJS, Python, FastAPI), data (PostgreSQL, Redis, Elasticsearch), infra (Docker, Kubernetes, AWS, GCP, GitHub Actions) — all healthy">
+
 
 ## `~ ❯ neofetch --avatar`
 
