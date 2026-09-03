@@ -26,7 +26,6 @@ Everything below is in production use, not résumé filler.
 <code>Shell</code>&nbsp;&nbsp;&nbsp;zsh<br>
 <code>Terminal</code> tmux<br>
 <code>Locale</code>&nbsp;&nbsp;en_US · es_ES<br>
-<code>Theme</code>&nbsp;&nbsp;&nbsp;outboss-neon<br>
 <code>Modes</code>&nbsp;&nbsp;architect · builder · automator · lead<br>
 <code>Session</code> private lab — running
 <br><br>
