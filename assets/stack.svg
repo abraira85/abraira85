@@ -1,6 +1,6 @@
-<svg width="1600" height="384" viewBox="0 0 1600 384" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<svg width="1600" height="360" viewBox="0 0 1600 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
 <title id="t">docker compose ps — all services healthy</title>
-<desc id="d">Stack overview: frontend (TypeScript, React, Next.js), api (Node.js, NestJS, Python, FastAPI), data (PostgreSQL, Redis, Elasticsearch), infra (Docker, Kubernetes, AWS, GCP, GitHub Actions) — all reporting healthy.</desc>
+<desc id="d">Terminal output: frontend (TypeScript, React, Next.js), api (Node.js, NestJS, Python, FastAPI), data (PostgreSQL, Redis, Elasticsearch), infra (Docker, Kubernetes, AWS, GCP, GitHub Actions) — all Up (healthy).</desc>
 <defs>
 <linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1">
 <stop offset="0" stop-color="#0D0D1F"/><stop offset="1" stop-color="#06060F"/>
@@ -11,54 +11,18 @@
 <filter id="blur5" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="5"/></filter>
 </defs>
 <style>
-text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;white-space:pre}
 @keyframes glowbreathe{0%,100%{opacity:0.2}50%{opacity:0.4}}
 .outerglow{animation:glowbreathe 6s ease-in-out infinite}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.cur{animation:blink 1.06s steps(1,end) infinite}
 </style>
 
-<rect class="outerglow" x="2" y="2" width="1596" height="380" rx="16" fill="none" stroke="url(#triad)" stroke-width="5" filter="url(#blur5)"/>
-<rect x="2" y="2" width="1596" height="380" rx="16" fill="url(#cardbg)" stroke="url(#triad)" stroke-width="1.5"/>
+<rect class="outerglow" x="2" y="2" width="1596" height="356" rx="16" fill="none" stroke="url(#triad)" stroke-width="5" filter="url(#blur5)"/>
+<rect x="2" y="2" width="1596" height="356" rx="16" fill="url(#cardbg)" stroke="url(#triad)" stroke-width="1.5"/>
 
-<line x1="24" y1="60" x2="1576" y2="60" stroke="#1E2440" stroke-width="1"/>
-<text x="48" y="42" font-size="19" fill="#8A93B2">NAME</text>
-<text x="270" y="42" font-size="19" fill="#8A93B2">IMAGE</text>
-<text x="1502" y="42" text-anchor="end" font-size="19" fill="#8A93B2">STATUS</text>
-
-
-<rect x="24" y="96" width="1552" height="56" rx="10" fill="#0B1020" stroke="#1E2440" stroke-width="1"/>
-<circle cx="52" cy="130" r="4" fill="#38BDF8"/>
-<text x="70" y="136" font-size="21" font-weight="600" fill="#38BDF8">frontend</text>
-<text x="270" y="136" font-size="19" fill="#8A93B2">typescript · react · next.js</text>
-<text x="1502" y="136" text-anchor="end" font-size="18" fill="#8A93B2">healthy</text>
-<circle cx="1518" cy="130" r="5" fill="#28C840">
-<animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
-</circle>
-
-<rect x="24" y="160" width="1552" height="56" rx="10" fill="#0B1020" stroke="#1E2440" stroke-width="1"/>
-<circle cx="52" cy="194" r="4" fill="#8B5CF6"/>
-<text x="70" y="200" font-size="21" font-weight="600" fill="#8B5CF6">api</text>
-<text x="270" y="200" font-size="19" fill="#8A93B2">node.js · nestjs · python · fastapi</text>
-<text x="1502" y="200" text-anchor="end" font-size="18" fill="#8A93B2">healthy</text>
-<circle cx="1518" cy="194" r="5" fill="#28C840">
-<animate attributeName="opacity" values="1;0.35;1" dur="2.6s" repeatCount="indefinite"/>
-</circle>
-
-<rect x="24" y="224" width="1552" height="56" rx="10" fill="#0B1020" stroke="#1E2440" stroke-width="1"/>
-<circle cx="52" cy="258" r="4" fill="#C084FC"/>
-<text x="70" y="264" font-size="21" font-weight="600" fill="#C084FC">data</text>
-<text x="270" y="264" font-size="19" fill="#8A93B2">postgresql · redis · elasticsearch</text>
-<text x="1502" y="264" text-anchor="end" font-size="18" fill="#8A93B2">healthy</text>
-<circle cx="1518" cy="258" r="5" fill="#28C840">
-<animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
-</circle>
-
-<rect x="24" y="288" width="1552" height="56" rx="10" fill="#0B1020" stroke="#1E2440" stroke-width="1"/>
-<circle cx="52" cy="322" r="4" fill="#EC4899"/>
-<text x="70" y="328" font-size="21" font-weight="600" fill="#EC4899">infra</text>
-<text x="270" y="328" font-size="19" fill="#8A93B2">docker · kubernetes · aws · gcp · actions</text>
-<text x="1502" y="328" text-anchor="end" font-size="18" fill="#8A93B2">healthy</text>
-<circle cx="1518" cy="322" r="5" fill="#28C840">
-<animate attributeName="opacity" values="1;0.35;1" dur="2.8s" repeatCount="indefinite"/>
-</circle>
+<text x="48" y="88" font-size="21" fill="#8A93B2" xml:space="preserve">NAME         IMAGE                                         STATUS</text><text x="48" y="128" font-size="21" xml:space="preserve"><tspan fill="#C4B5FD">frontend     typescript · react · next.js                  </tspan><tspan fill="#28C840">Up (healthy)</tspan></text><text x="48" y="168" font-size="21" xml:space="preserve"><tspan fill="#C4B5FD">api          node.js · nestjs · python · fastapi           </tspan><tspan fill="#28C840">Up (healthy)</tspan></text><text x="48" y="208" font-size="21" xml:space="preserve"><tspan fill="#C4B5FD">data         postgresql · redis · elasticsearch            </tspan><tspan fill="#28C840">Up (healthy)</tspan></text><text x="48" y="248" font-size="21" xml:space="preserve"><tspan fill="#C4B5FD">infra        docker · kubernetes · aws · gcp · actions     </tspan><tspan fill="#28C840">Up (healthy)</tspan></text>
+<text x="48" y="288" font-size="21"><tspan fill="#C4B5FD">~</tspan><tspan fill="#8A93B2"> </tspan><tspan fill="#38BDF8">❯</tspan></text>
+<rect class="cur" x="86" y="270" width="12" height="24" fill="#38BDF8"/>
 
 </svg>
