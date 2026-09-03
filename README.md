@@ -1,6 +1,6 @@
 <p align="center"><img src="./assets/hero-terminal.svg" width="100%" alt="Terminal session: whoami — Rober de Ávila Abraira, Tech Lead &amp; Full-stack Engineer, Granada ES, outboss.io; modes: architect, builder, automator, lead; philosophy: private by default, public when ready"></p>
 
-<p align="center">I work where <strong>product, engineering and operations</strong> meet — turning business ideas, internal processes and technical ambiguity into useful, maintainable software.</p>
+<p align="center">I work where <strong>product, engineering and operations</strong> meet — turning business ideas, internal processes and technical ambiguity into useful, maintainable software. Day to day that means moving across the full lifecycle: software architecture and system design, hands-on full-stack delivery, cloud infrastructure and automation, and the technical leadership that keeps a team shipping with clarity. I care less about which framework is trendy and more about whether what we build still makes sense to maintain a year from now.</p>
 
 <p align="center"><img src="./assets/principles.svg" width="100%" alt="How I work: understand the real problem before writing code; keep architecture simple, explicit and scalable; build useful software, not just technical demos; automate repetitive work whenever it has real leverage; improve developer experience and delivery flow; connect business needs with technical execution; make technical decisions with practical impact; think in products, systems and outcomes."></p>
 
