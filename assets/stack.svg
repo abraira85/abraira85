@@ -1,6 +1,6 @@
-<svg width="1600" height="360" viewBox="0 0 1600 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<svg width="1600" height="400" viewBox="0 0 1600 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
 <title id="t">docker compose ps — all services healthy</title>
-<desc id="d">Terminal output: frontend (TypeScript, React, Next.js), api (Node.js, NestJS, Python, FastAPI), data (PostgreSQL, Redis, Elasticsearch), infra (Docker, Kubernetes, AWS, GCP, GitHub Actions) — all Up (healthy).</desc>
+<desc id="d">Terminal output: frontend (TypeScript, React, Next.js), api (Node.js, NestJS, Python, FastAPI, GraphQL), data (PostgreSQL, Redis, Elasticsearch, Qdrant), ai (OpenAI, Claude, LangChain, LangGraph, MCP), infra (Docker, Kubernetes, AWS, GCP, GitHub Actions, Terraform) — all Up (healthy).</desc>
 <defs>
 <linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1">
 <stop offset="0" stop-color="#0D0D1F"/><stop offset="1" stop-color="#06060F"/>
@@ -18,11 +18,11 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',mo
 .cur{animation:blink 1.06s steps(1,end) infinite}
 </style>
 
-<rect class="outerglow" x="2" y="2" width="1596" height="356" rx="16" fill="none" stroke="url(#triad)" stroke-width="5" filter="url(#blur5)"/>
-<rect x="2" y="2" width="1596" height="356" rx="16" fill="url(#cardbg)" stroke="url(#triad)" stroke-width="1.5"/>
+<rect class="outerglow" x="2" y="2" width="1596" height="396" rx="16" fill="none" stroke="url(#triad)" stroke-width="5" filter="url(#blur5)"/>
+<rect x="2" y="2" width="1596" height="396" rx="16" fill="url(#cardbg)" stroke="url(#triad)" stroke-width="1.5"/>
 
-<text x="48" y="88" font-size="21" fill="#8A93B2" xml:space="preserve">NAME         IMAGE                                         STATUS</text><text x="48" y="128" font-size="21" xml:space="preserve"><tspan fill="#C4B5FD">frontend     typescript · react · next.js                  </tspan><tspan fill="#28C840">Up (healthy)</tspan></text><text x="48" y="168" font-size="21" xml:space="preserve"><tspan fill="#C4B5FD">api          node.js · nestjs · python · fastapi           </tspan><tspan fill="#28C840">Up (healthy)</tspan></text><text x="48" y="208" font-size="21" xml:space="preserve"><tspan fill="#C4B5FD">data         postgresql · redis · elasticsearch            </tspan><tspan fill="#28C840">Up (healthy)</tspan></text><text x="48" y="248" font-size="21" xml:space="preserve"><tspan fill="#C4B5FD">infra        docker · kubernetes · aws · gcp · actions     </tspan><tspan fill="#28C840">Up (healthy)</tspan></text>
-<text x="48" y="288" font-size="21"><tspan fill="#C4B5FD">~</tspan><tspan fill="#8A93B2"> </tspan><tspan fill="#38BDF8">❯</tspan></text>
-<rect class="cur" x="86" y="270" width="12" height="24" fill="#38BDF8"/>
+<text x="48" y="88" font-size="21" fill="#8A93B2" xml:space="preserve">NAME      IMAGE                                                   STATUS</text><text x="48" y="128" font-size="21" xml:space="preserve"><tspan fill="#C4B5FD">frontend  typescript · react · next.js                            </tspan><tspan fill="#28C840">Up (healthy)</tspan></text><text x="48" y="168" font-size="21" xml:space="preserve"><tspan fill="#C4B5FD">api       node.js · nestjs · python · fastapi · graphql           </tspan><tspan fill="#28C840">Up (healthy)</tspan></text><text x="48" y="208" font-size="21" xml:space="preserve"><tspan fill="#C4B5FD">data      postgresql · redis · elasticsearch · qdrant             </tspan><tspan fill="#28C840">Up (healthy)</tspan></text><text x="48" y="248" font-size="21" xml:space="preserve"><tspan fill="#C4B5FD">ai        openai · claude · langchain · langgraph · mcp · rag     </tspan><tspan fill="#28C840">Up (healthy)</tspan></text><text x="48" y="288" font-size="21" xml:space="preserve"><tspan fill="#C4B5FD">infra     docker · kubernetes · aws · gcp · actions · terraform   </tspan><tspan fill="#28C840">Up (healthy)</tspan></text>
+<text x="48" y="328" font-size="21"><tspan fill="#C4B5FD">~</tspan><tspan fill="#8A93B2"> </tspan><tspan fill="#38BDF8">❯</tspan></text>
+<rect class="cur" x="86" y="310" width="12" height="24" fill="#38BDF8"/>
 
 </svg>

@@ -21,11 +21,16 @@ Everything below is in production use, not résumé filler.
 <strong>Rober de Ávila Abraira</strong><br>
 <sub>tech lead &amp; full-stack engineer</sub>
 <br><br>
-<code>OS</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;builder (Granada, ES)<br>
-<code>Host</code>&nbsp;&nbsp;&nbsp;outboss.io<br>
-<code>Shell</code>&nbsp;&nbsp;zsh<br>
-<code>Modes</code>&nbsp;architect · builder · automator · lead<br>
+<code>OS</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;builder (Granada, ES)<br>
+<code>Host</code>&nbsp;&nbsp;&nbsp;&nbsp;outboss.io<br>
+<code>Shell</code>&nbsp;&nbsp;&nbsp;zsh<br>
+<code>Terminal</code> tmux<br>
+<code>Locale</code>&nbsp;&nbsp;en_US · es_ES<br>
+<code>Theme</code>&nbsp;&nbsp;&nbsp;outboss-neon<br>
+<code>Modes</code>&nbsp;&nbsp;architect · builder · automator · lead<br>
 <code>Session</code> private lab — running
+<br><br>
+<sub>Based in Granada, working with distributed teams across time zones. Comfortable switching between English and Spanish depending on who's in the room.</sub>
 </td>
 </tr>
 </table>
