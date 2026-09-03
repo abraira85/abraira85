@@ -30,7 +30,7 @@ Everything below is in production use, not résumé filler.
 <code>Modes</code>&nbsp;&nbsp;architect · builder · automator · lead<br>
 <code>Session</code> private lab — running
 <br><br>
-<sub>Based in Granada, working with distributed teams across time zones. Comfortable switching between English and Spanish depending on who's in the room.</sub>
+<sub>Based in Granada, working with distributed teams across time zones. Native Spanish speaker — reads and writes English fluently.</sub>
 </td>
 </tr>
 </table>
